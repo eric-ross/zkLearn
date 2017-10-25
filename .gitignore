@@ -1,0 +1,6 @@
+runtime/data/version-2/
+runtime/data/z1/data/version-2/
+runtime/data/z2/data/version-2/
+runtime/data/z3/data/version-2/
+*.out
+*.pid
